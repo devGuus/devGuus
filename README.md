@@ -17,4 +17,4 @@
 
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Eclipse Para desenvolver Java](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=Unity&logoColor=white&labelColor=080808&color=000000'/></a>
 ##
-##### Trabalhar na area de TI sempre foi o meu foco desde de pequeno, com educação e força de vontade estou chegando lá, estou disponivel para novas oportunidades e novos aprendizados:exclamation:
+##### Trabalhar na area de TI sempre foi o meu foco desde de pequeno, com educação e força de vontade estou chegando lá, estou disponivel para novas oportunidades e novos aprendizados!
